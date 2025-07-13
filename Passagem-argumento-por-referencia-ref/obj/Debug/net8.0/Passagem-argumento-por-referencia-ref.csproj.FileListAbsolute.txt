@@ -1,0 +1,15 @@
+/home/nicolas/Documentos/Secao-4/Passagem-argumento-por-referencia-ref/bin/Debug/net8.0/Passagem-argumento-por-referencia-ref
+/home/nicolas/Documentos/Secao-4/Passagem-argumento-por-referencia-ref/bin/Debug/net8.0/Passagem-argumento-por-referencia-ref.deps.json
+/home/nicolas/Documentos/Secao-4/Passagem-argumento-por-referencia-ref/bin/Debug/net8.0/Passagem-argumento-por-referencia-ref.runtimeconfig.json
+/home/nicolas/Documentos/Secao-4/Passagem-argumento-por-referencia-ref/bin/Debug/net8.0/Passagem-argumento-por-referencia-ref.dll
+/home/nicolas/Documentos/Secao-4/Passagem-argumento-por-referencia-ref/bin/Debug/net8.0/Passagem-argumento-por-referencia-ref.pdb
+/home/nicolas/Documentos/Secao-4/Passagem-argumento-por-referencia-ref/obj/Debug/net8.0/Passagem-argumento-por-referencia-ref.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicolas/Documentos/Secao-4/Passagem-argumento-por-referencia-ref/obj/Debug/net8.0/Passagem-argumento-por-referencia-ref.AssemblyInfoInputs.cache
+/home/nicolas/Documentos/Secao-4/Passagem-argumento-por-referencia-ref/obj/Debug/net8.0/Passagem-argumento-por-referencia-ref.AssemblyInfo.cs
+/home/nicolas/Documentos/Secao-4/Passagem-argumento-por-referencia-ref/obj/Debug/net8.0/Passagem-argumento-por-referencia-ref.csproj.CoreCompileInputs.cache
+/home/nicolas/Documentos/Secao-4/Passagem-argumento-por-referencia-ref/obj/Debug/net8.0/Passagem-argumento-por-referencia-ref.sourcelink.json
+/home/nicolas/Documentos/Secao-4/Passagem-argumento-por-referencia-ref/obj/Debug/net8.0/Passagem-argumento-por-referencia-ref.dll
+/home/nicolas/Documentos/Secao-4/Passagem-argumento-por-referencia-ref/obj/Debug/net8.0/refint/Passagem-argumento-por-referencia-ref.dll
+/home/nicolas/Documentos/Secao-4/Passagem-argumento-por-referencia-ref/obj/Debug/net8.0/Passagem-argumento-por-referencia-ref.pdb
+/home/nicolas/Documentos/Secao-4/Passagem-argumento-por-referencia-ref/obj/Debug/net8.0/Passagem-argumento-por-referencia-ref.genruntimeconfig.cache
+/home/nicolas/Documentos/Secao-4/Passagem-argumento-por-referencia-ref/obj/Debug/net8.0/ref/Passagem-argumento-por-referencia-ref.dll

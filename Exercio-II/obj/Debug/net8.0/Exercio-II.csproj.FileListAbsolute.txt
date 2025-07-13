@@ -1,0 +1,15 @@
+/home/nicolas/Documentos/Secao-4/Exercio-II/bin/Debug/net8.0/Exercio-II
+/home/nicolas/Documentos/Secao-4/Exercio-II/bin/Debug/net8.0/Exercio-II.deps.json
+/home/nicolas/Documentos/Secao-4/Exercio-II/bin/Debug/net8.0/Exercio-II.runtimeconfig.json
+/home/nicolas/Documentos/Secao-4/Exercio-II/bin/Debug/net8.0/Exercio-II.dll
+/home/nicolas/Documentos/Secao-4/Exercio-II/bin/Debug/net8.0/Exercio-II.pdb
+/home/nicolas/Documentos/Secao-4/Exercio-II/obj/Debug/net8.0/Exercio-II.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicolas/Documentos/Secao-4/Exercio-II/obj/Debug/net8.0/Exercio-II.AssemblyInfoInputs.cache
+/home/nicolas/Documentos/Secao-4/Exercio-II/obj/Debug/net8.0/Exercio-II.AssemblyInfo.cs
+/home/nicolas/Documentos/Secao-4/Exercio-II/obj/Debug/net8.0/Exercio-II.csproj.CoreCompileInputs.cache
+/home/nicolas/Documentos/Secao-4/Exercio-II/obj/Debug/net8.0/Exercio-II.sourcelink.json
+/home/nicolas/Documentos/Secao-4/Exercio-II/obj/Debug/net8.0/Exercio-II.dll
+/home/nicolas/Documentos/Secao-4/Exercio-II/obj/Debug/net8.0/refint/Exercio-II.dll
+/home/nicolas/Documentos/Secao-4/Exercio-II/obj/Debug/net8.0/Exercio-II.pdb
+/home/nicolas/Documentos/Secao-4/Exercio-II/obj/Debug/net8.0/Exercio-II.genruntimeconfig.cache
+/home/nicolas/Documentos/Secao-4/Exercio-II/obj/Debug/net8.0/ref/Exercio-II.dll

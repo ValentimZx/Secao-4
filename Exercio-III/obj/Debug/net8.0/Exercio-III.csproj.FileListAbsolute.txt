@@ -1,0 +1,15 @@
+/home/nicolas/Documentos/Secao-4/Exercio-III/bin/Debug/net8.0/Exercio-III
+/home/nicolas/Documentos/Secao-4/Exercio-III/bin/Debug/net8.0/Exercio-III.deps.json
+/home/nicolas/Documentos/Secao-4/Exercio-III/bin/Debug/net8.0/Exercio-III.runtimeconfig.json
+/home/nicolas/Documentos/Secao-4/Exercio-III/bin/Debug/net8.0/Exercio-III.dll
+/home/nicolas/Documentos/Secao-4/Exercio-III/bin/Debug/net8.0/Exercio-III.pdb
+/home/nicolas/Documentos/Secao-4/Exercio-III/obj/Debug/net8.0/Exercio-III.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicolas/Documentos/Secao-4/Exercio-III/obj/Debug/net8.0/Exercio-III.AssemblyInfoInputs.cache
+/home/nicolas/Documentos/Secao-4/Exercio-III/obj/Debug/net8.0/Exercio-III.AssemblyInfo.cs
+/home/nicolas/Documentos/Secao-4/Exercio-III/obj/Debug/net8.0/Exercio-III.csproj.CoreCompileInputs.cache
+/home/nicolas/Documentos/Secao-4/Exercio-III/obj/Debug/net8.0/Exercio-III.sourcelink.json
+/home/nicolas/Documentos/Secao-4/Exercio-III/obj/Debug/net8.0/Exercio-III.dll
+/home/nicolas/Documentos/Secao-4/Exercio-III/obj/Debug/net8.0/refint/Exercio-III.dll
+/home/nicolas/Documentos/Secao-4/Exercio-III/obj/Debug/net8.0/Exercio-III.pdb
+/home/nicolas/Documentos/Secao-4/Exercio-III/obj/Debug/net8.0/Exercio-III.genruntimeconfig.cache
+/home/nicolas/Documentos/Secao-4/Exercio-III/obj/Debug/net8.0/ref/Exercio-III.dll

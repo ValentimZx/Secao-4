@@ -1,0 +1,15 @@
+/home/nicolas/Documentos/Secao-4/Exemplo-Pratico/bin/Debug/net8.0/Exemplo-Pratico
+/home/nicolas/Documentos/Secao-4/Exemplo-Pratico/bin/Debug/net8.0/Exemplo-Pratico.deps.json
+/home/nicolas/Documentos/Secao-4/Exemplo-Pratico/bin/Debug/net8.0/Exemplo-Pratico.runtimeconfig.json
+/home/nicolas/Documentos/Secao-4/Exemplo-Pratico/bin/Debug/net8.0/Exemplo-Pratico.dll
+/home/nicolas/Documentos/Secao-4/Exemplo-Pratico/bin/Debug/net8.0/Exemplo-Pratico.pdb
+/home/nicolas/Documentos/Secao-4/Exemplo-Pratico/obj/Debug/net8.0/Exemplo-Pratico.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicolas/Documentos/Secao-4/Exemplo-Pratico/obj/Debug/net8.0/Exemplo-Pratico.AssemblyInfoInputs.cache
+/home/nicolas/Documentos/Secao-4/Exemplo-Pratico/obj/Debug/net8.0/Exemplo-Pratico.AssemblyInfo.cs
+/home/nicolas/Documentos/Secao-4/Exemplo-Pratico/obj/Debug/net8.0/Exemplo-Pratico.csproj.CoreCompileInputs.cache
+/home/nicolas/Documentos/Secao-4/Exemplo-Pratico/obj/Debug/net8.0/Exemplo-Pratico.sourcelink.json
+/home/nicolas/Documentos/Secao-4/Exemplo-Pratico/obj/Debug/net8.0/Exemplo-Pratico.dll
+/home/nicolas/Documentos/Secao-4/Exemplo-Pratico/obj/Debug/net8.0/refint/Exemplo-Pratico.dll
+/home/nicolas/Documentos/Secao-4/Exemplo-Pratico/obj/Debug/net8.0/Exemplo-Pratico.pdb
+/home/nicolas/Documentos/Secao-4/Exemplo-Pratico/obj/Debug/net8.0/Exemplo-Pratico.genruntimeconfig.cache
+/home/nicolas/Documentos/Secao-4/Exemplo-Pratico/obj/Debug/net8.0/ref/Exemplo-Pratico.dll

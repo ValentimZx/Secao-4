@@ -1,0 +1,15 @@
+/home/nicolas/Documentos/Secao-4/Passando-Argumentos-Por-Valor/bin/Debug/net8.0/Passando-Argumentos-Por-Valor
+/home/nicolas/Documentos/Secao-4/Passando-Argumentos-Por-Valor/bin/Debug/net8.0/Passando-Argumentos-Por-Valor.deps.json
+/home/nicolas/Documentos/Secao-4/Passando-Argumentos-Por-Valor/bin/Debug/net8.0/Passando-Argumentos-Por-Valor.runtimeconfig.json
+/home/nicolas/Documentos/Secao-4/Passando-Argumentos-Por-Valor/bin/Debug/net8.0/Passando-Argumentos-Por-Valor.dll
+/home/nicolas/Documentos/Secao-4/Passando-Argumentos-Por-Valor/bin/Debug/net8.0/Passando-Argumentos-Por-Valor.pdb
+/home/nicolas/Documentos/Secao-4/Passando-Argumentos-Por-Valor/obj/Debug/net8.0/Passando-Argumentos-Por-Valor.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicolas/Documentos/Secao-4/Passando-Argumentos-Por-Valor/obj/Debug/net8.0/Passando-Argumentos-Por-Valor.AssemblyInfoInputs.cache
+/home/nicolas/Documentos/Secao-4/Passando-Argumentos-Por-Valor/obj/Debug/net8.0/Passando-Argumentos-Por-Valor.AssemblyInfo.cs
+/home/nicolas/Documentos/Secao-4/Passando-Argumentos-Por-Valor/obj/Debug/net8.0/Passando-Argumentos-Por-Valor.csproj.CoreCompileInputs.cache
+/home/nicolas/Documentos/Secao-4/Passando-Argumentos-Por-Valor/obj/Debug/net8.0/Passando-Argumentos-Por-Valor.sourcelink.json
+/home/nicolas/Documentos/Secao-4/Passando-Argumentos-Por-Valor/obj/Debug/net8.0/Passando-Argumentos-Por-Valor.dll
+/home/nicolas/Documentos/Secao-4/Passando-Argumentos-Por-Valor/obj/Debug/net8.0/refint/Passando-Argumentos-Por-Valor.dll
+/home/nicolas/Documentos/Secao-4/Passando-Argumentos-Por-Valor/obj/Debug/net8.0/Passando-Argumentos-Por-Valor.pdb
+/home/nicolas/Documentos/Secao-4/Passando-Argumentos-Por-Valor/obj/Debug/net8.0/Passando-Argumentos-Por-Valor.genruntimeconfig.cache
+/home/nicolas/Documentos/Secao-4/Passando-Argumentos-Por-Valor/obj/Debug/net8.0/ref/Passando-Argumentos-Por-Valor.dll
