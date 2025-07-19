@@ -1,0 +1,15 @@
+/home/nicolas/Documentos/Secao-4/Campo-Estático/bin/Debug/net8.0/Campo-Estático
+/home/nicolas/Documentos/Secao-4/Campo-Estático/bin/Debug/net8.0/Campo-Estático.deps.json
+/home/nicolas/Documentos/Secao-4/Campo-Estático/bin/Debug/net8.0/Campo-Estático.runtimeconfig.json
+/home/nicolas/Documentos/Secao-4/Campo-Estático/bin/Debug/net8.0/Campo-Estático.dll
+/home/nicolas/Documentos/Secao-4/Campo-Estático/bin/Debug/net8.0/Campo-Estático.pdb
+/home/nicolas/Documentos/Secao-4/Campo-Estático/obj/Debug/net8.0/Campo-Estático.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicolas/Documentos/Secao-4/Campo-Estático/obj/Debug/net8.0/Campo-Estático.AssemblyInfoInputs.cache
+/home/nicolas/Documentos/Secao-4/Campo-Estático/obj/Debug/net8.0/Campo-Estático.AssemblyInfo.cs
+/home/nicolas/Documentos/Secao-4/Campo-Estático/obj/Debug/net8.0/Campo-Estático.csproj.CoreCompileInputs.cache
+/home/nicolas/Documentos/Secao-4/Campo-Estático/obj/Debug/net8.0/Campo-Estático.sourcelink.json
+/home/nicolas/Documentos/Secao-4/Campo-Estático/obj/Debug/net8.0/Campo-Estático.dll
+/home/nicolas/Documentos/Secao-4/Campo-Estático/obj/Debug/net8.0/refint/Campo-Estático.dll
+/home/nicolas/Documentos/Secao-4/Campo-Estático/obj/Debug/net8.0/Campo-Estático.pdb
+/home/nicolas/Documentos/Secao-4/Campo-Estático/obj/Debug/net8.0/Campo-Estático.genruntimeconfig.cache
+/home/nicolas/Documentos/Secao-4/Campo-Estático/obj/Debug/net8.0/ref/Campo-Estático.dll

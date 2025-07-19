@@ -25,3 +25,6 @@ public class Potencia
 
     }
 }
+
+//A sobrecarga de metados e util quando possuimos mais de um metado com o mesmo nome, onde podemos atribuir diferentes valores, tipos e parametros a eles
+//sem que o compilador emita erro.

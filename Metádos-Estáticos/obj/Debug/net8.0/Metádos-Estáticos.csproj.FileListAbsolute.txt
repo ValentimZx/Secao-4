@@ -1,0 +1,15 @@
+/home/nicolas/Documentos/Secao-4/Metádos-Estáticos/bin/Debug/net8.0/Metádos-Estáticos
+/home/nicolas/Documentos/Secao-4/Metádos-Estáticos/bin/Debug/net8.0/Metádos-Estáticos.deps.json
+/home/nicolas/Documentos/Secao-4/Metádos-Estáticos/bin/Debug/net8.0/Metádos-Estáticos.runtimeconfig.json
+/home/nicolas/Documentos/Secao-4/Metádos-Estáticos/bin/Debug/net8.0/Metádos-Estáticos.dll
+/home/nicolas/Documentos/Secao-4/Metádos-Estáticos/bin/Debug/net8.0/Metádos-Estáticos.pdb
+/home/nicolas/Documentos/Secao-4/Metádos-Estáticos/obj/Debug/net8.0/Metádos-Estáticos.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicolas/Documentos/Secao-4/Metádos-Estáticos/obj/Debug/net8.0/Metádos-Estáticos.AssemblyInfoInputs.cache
+/home/nicolas/Documentos/Secao-4/Metádos-Estáticos/obj/Debug/net8.0/Metádos-Estáticos.AssemblyInfo.cs
+/home/nicolas/Documentos/Secao-4/Metádos-Estáticos/obj/Debug/net8.0/Metádos-Estáticos.csproj.CoreCompileInputs.cache
+/home/nicolas/Documentos/Secao-4/Metádos-Estáticos/obj/Debug/net8.0/Metádos-Estáticos.sourcelink.json
+/home/nicolas/Documentos/Secao-4/Metádos-Estáticos/obj/Debug/net8.0/Metádos-Estáticos.dll
+/home/nicolas/Documentos/Secao-4/Metádos-Estáticos/obj/Debug/net8.0/refint/Metádos-Estáticos.dll
+/home/nicolas/Documentos/Secao-4/Metádos-Estáticos/obj/Debug/net8.0/Metádos-Estáticos.pdb
+/home/nicolas/Documentos/Secao-4/Metádos-Estáticos/obj/Debug/net8.0/Metádos-Estáticos.genruntimeconfig.cache
+/home/nicolas/Documentos/Secao-4/Metádos-Estáticos/obj/Debug/net8.0/ref/Metádos-Estáticos.dll

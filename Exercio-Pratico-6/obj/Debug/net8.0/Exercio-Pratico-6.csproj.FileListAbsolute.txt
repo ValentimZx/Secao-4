@@ -1,0 +1,15 @@
+/home/nicolas/Documentos/Secao-4/Exercio-Pratico-6/bin/Debug/net8.0/Exercio-Pratico-6
+/home/nicolas/Documentos/Secao-4/Exercio-Pratico-6/bin/Debug/net8.0/Exercio-Pratico-6.deps.json
+/home/nicolas/Documentos/Secao-4/Exercio-Pratico-6/bin/Debug/net8.0/Exercio-Pratico-6.runtimeconfig.json
+/home/nicolas/Documentos/Secao-4/Exercio-Pratico-6/bin/Debug/net8.0/Exercio-Pratico-6.dll
+/home/nicolas/Documentos/Secao-4/Exercio-Pratico-6/bin/Debug/net8.0/Exercio-Pratico-6.pdb
+/home/nicolas/Documentos/Secao-4/Exercio-Pratico-6/obj/Debug/net8.0/Exercio-Pratico-6.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicolas/Documentos/Secao-4/Exercio-Pratico-6/obj/Debug/net8.0/Exercio-Pratico-6.AssemblyInfoInputs.cache
+/home/nicolas/Documentos/Secao-4/Exercio-Pratico-6/obj/Debug/net8.0/Exercio-Pratico-6.AssemblyInfo.cs
+/home/nicolas/Documentos/Secao-4/Exercio-Pratico-6/obj/Debug/net8.0/Exercio-Pratico-6.csproj.CoreCompileInputs.cache
+/home/nicolas/Documentos/Secao-4/Exercio-Pratico-6/obj/Debug/net8.0/Exercio-Pratico-6.sourcelink.json
+/home/nicolas/Documentos/Secao-4/Exercio-Pratico-6/obj/Debug/net8.0/Exercio-Pratico-6.dll
+/home/nicolas/Documentos/Secao-4/Exercio-Pratico-6/obj/Debug/net8.0/refint/Exercio-Pratico-6.dll
+/home/nicolas/Documentos/Secao-4/Exercio-Pratico-6/obj/Debug/net8.0/Exercio-Pratico-6.pdb
+/home/nicolas/Documentos/Secao-4/Exercio-Pratico-6/obj/Debug/net8.0/Exercio-Pratico-6.genruntimeconfig.cache
+/home/nicolas/Documentos/Secao-4/Exercio-Pratico-6/obj/Debug/net8.0/ref/Exercio-Pratico-6.dll

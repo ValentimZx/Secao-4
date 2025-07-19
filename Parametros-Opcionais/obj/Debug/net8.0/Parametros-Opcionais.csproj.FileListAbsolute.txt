@@ -1,0 +1,15 @@
+/home/nicolas/Documentos/Secao-4/Parametros-Opcionais/bin/Debug/net8.0/Parametros-Opcionais
+/home/nicolas/Documentos/Secao-4/Parametros-Opcionais/bin/Debug/net8.0/Parametros-Opcionais.deps.json
+/home/nicolas/Documentos/Secao-4/Parametros-Opcionais/bin/Debug/net8.0/Parametros-Opcionais.runtimeconfig.json
+/home/nicolas/Documentos/Secao-4/Parametros-Opcionais/bin/Debug/net8.0/Parametros-Opcionais.dll
+/home/nicolas/Documentos/Secao-4/Parametros-Opcionais/bin/Debug/net8.0/Parametros-Opcionais.pdb
+/home/nicolas/Documentos/Secao-4/Parametros-Opcionais/obj/Debug/net8.0/Parametros-Opcionais.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicolas/Documentos/Secao-4/Parametros-Opcionais/obj/Debug/net8.0/Parametros-Opcionais.AssemblyInfoInputs.cache
+/home/nicolas/Documentos/Secao-4/Parametros-Opcionais/obj/Debug/net8.0/Parametros-Opcionais.AssemblyInfo.cs
+/home/nicolas/Documentos/Secao-4/Parametros-Opcionais/obj/Debug/net8.0/Parametros-Opcionais.csproj.CoreCompileInputs.cache
+/home/nicolas/Documentos/Secao-4/Parametros-Opcionais/obj/Debug/net8.0/Parametros-Opcionais.sourcelink.json
+/home/nicolas/Documentos/Secao-4/Parametros-Opcionais/obj/Debug/net8.0/Parametros-Opcionais.dll
+/home/nicolas/Documentos/Secao-4/Parametros-Opcionais/obj/Debug/net8.0/refint/Parametros-Opcionais.dll
+/home/nicolas/Documentos/Secao-4/Parametros-Opcionais/obj/Debug/net8.0/Parametros-Opcionais.pdb
+/home/nicolas/Documentos/Secao-4/Parametros-Opcionais/obj/Debug/net8.0/Parametros-Opcionais.genruntimeconfig.cache
+/home/nicolas/Documentos/Secao-4/Parametros-Opcionais/obj/Debug/net8.0/ref/Parametros-Opcionais.dll

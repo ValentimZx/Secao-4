@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Passagem-Argumento-Out/1.0.0": {
+        "runtime": {
+          "Passagem-Argumento-Out.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Passagem-Argumento-Out/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

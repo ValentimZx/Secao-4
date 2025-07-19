@@ -1,0 +1,15 @@
+/home/nicolas/Documentos/Secao-4/Membros-Estáticos/bin/Debug/net8.0/Membros-Estáticos
+/home/nicolas/Documentos/Secao-4/Membros-Estáticos/bin/Debug/net8.0/Membros-Estáticos.deps.json
+/home/nicolas/Documentos/Secao-4/Membros-Estáticos/bin/Debug/net8.0/Membros-Estáticos.runtimeconfig.json
+/home/nicolas/Documentos/Secao-4/Membros-Estáticos/bin/Debug/net8.0/Membros-Estáticos.dll
+/home/nicolas/Documentos/Secao-4/Membros-Estáticos/bin/Debug/net8.0/Membros-Estáticos.pdb
+/home/nicolas/Documentos/Secao-4/Membros-Estáticos/obj/Debug/net8.0/Membros-Estáticos.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicolas/Documentos/Secao-4/Membros-Estáticos/obj/Debug/net8.0/Membros-Estáticos.AssemblyInfoInputs.cache
+/home/nicolas/Documentos/Secao-4/Membros-Estáticos/obj/Debug/net8.0/Membros-Estáticos.AssemblyInfo.cs
+/home/nicolas/Documentos/Secao-4/Membros-Estáticos/obj/Debug/net8.0/Membros-Estáticos.csproj.CoreCompileInputs.cache
+/home/nicolas/Documentos/Secao-4/Membros-Estáticos/obj/Debug/net8.0/Membros-Estáticos.sourcelink.json
+/home/nicolas/Documentos/Secao-4/Membros-Estáticos/obj/Debug/net8.0/Membros-Estáticos.dll
+/home/nicolas/Documentos/Secao-4/Membros-Estáticos/obj/Debug/net8.0/refint/Membros-Estáticos.dll
+/home/nicolas/Documentos/Secao-4/Membros-Estáticos/obj/Debug/net8.0/Membros-Estáticos.pdb
+/home/nicolas/Documentos/Secao-4/Membros-Estáticos/obj/Debug/net8.0/Membros-Estáticos.genruntimeconfig.cache
+/home/nicolas/Documentos/Secao-4/Membros-Estáticos/obj/Debug/net8.0/ref/Membros-Estáticos.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Parametro-E-Argumento/1.0.0": {
+        "runtime": {
+          "Parametro-E-Argumento.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Parametro-E-Argumento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

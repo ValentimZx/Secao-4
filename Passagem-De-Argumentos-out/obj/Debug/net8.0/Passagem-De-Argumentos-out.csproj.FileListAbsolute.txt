@@ -1,0 +1,15 @@
+/home/nicolas/Documentos/Secao-4/Passagem-De-Argumentos-out/bin/Debug/net8.0/Passagem-De-Argumentos-out
+/home/nicolas/Documentos/Secao-4/Passagem-De-Argumentos-out/bin/Debug/net8.0/Passagem-De-Argumentos-out.deps.json
+/home/nicolas/Documentos/Secao-4/Passagem-De-Argumentos-out/bin/Debug/net8.0/Passagem-De-Argumentos-out.runtimeconfig.json
+/home/nicolas/Documentos/Secao-4/Passagem-De-Argumentos-out/bin/Debug/net8.0/Passagem-De-Argumentos-out.dll
+/home/nicolas/Documentos/Secao-4/Passagem-De-Argumentos-out/bin/Debug/net8.0/Passagem-De-Argumentos-out.pdb
+/home/nicolas/Documentos/Secao-4/Passagem-De-Argumentos-out/obj/Debug/net8.0/Passagem-De-Argumentos-out.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicolas/Documentos/Secao-4/Passagem-De-Argumentos-out/obj/Debug/net8.0/Passagem-De-Argumentos-out.AssemblyInfoInputs.cache
+/home/nicolas/Documentos/Secao-4/Passagem-De-Argumentos-out/obj/Debug/net8.0/Passagem-De-Argumentos-out.AssemblyInfo.cs
+/home/nicolas/Documentos/Secao-4/Passagem-De-Argumentos-out/obj/Debug/net8.0/Passagem-De-Argumentos-out.csproj.CoreCompileInputs.cache
+/home/nicolas/Documentos/Secao-4/Passagem-De-Argumentos-out/obj/Debug/net8.0/Passagem-De-Argumentos-out.sourcelink.json
+/home/nicolas/Documentos/Secao-4/Passagem-De-Argumentos-out/obj/Debug/net8.0/Passagem-De-Argumentos-out.dll
+/home/nicolas/Documentos/Secao-4/Passagem-De-Argumentos-out/obj/Debug/net8.0/refint/Passagem-De-Argumentos-out.dll
+/home/nicolas/Documentos/Secao-4/Passagem-De-Argumentos-out/obj/Debug/net8.0/Passagem-De-Argumentos-out.pdb
+/home/nicolas/Documentos/Secao-4/Passagem-De-Argumentos-out/obj/Debug/net8.0/Passagem-De-Argumentos-out.genruntimeconfig.cache
+/home/nicolas/Documentos/Secao-4/Passagem-De-Argumentos-out/obj/Debug/net8.0/ref/Passagem-De-Argumentos-out.dll

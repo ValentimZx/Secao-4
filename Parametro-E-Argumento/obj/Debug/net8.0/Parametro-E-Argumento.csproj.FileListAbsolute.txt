@@ -1,0 +1,15 @@
+/home/nicolas/Documentos/Secao-4/Parametro-E-Argumento/bin/Debug/net8.0/Parametro-E-Argumento
+/home/nicolas/Documentos/Secao-4/Parametro-E-Argumento/bin/Debug/net8.0/Parametro-E-Argumento.deps.json
+/home/nicolas/Documentos/Secao-4/Parametro-E-Argumento/bin/Debug/net8.0/Parametro-E-Argumento.runtimeconfig.json
+/home/nicolas/Documentos/Secao-4/Parametro-E-Argumento/bin/Debug/net8.0/Parametro-E-Argumento.dll
+/home/nicolas/Documentos/Secao-4/Parametro-E-Argumento/bin/Debug/net8.0/Parametro-E-Argumento.pdb
+/home/nicolas/Documentos/Secao-4/Parametro-E-Argumento/obj/Debug/net8.0/Parametro-E-Argumento.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicolas/Documentos/Secao-4/Parametro-E-Argumento/obj/Debug/net8.0/Parametro-E-Argumento.AssemblyInfoInputs.cache
+/home/nicolas/Documentos/Secao-4/Parametro-E-Argumento/obj/Debug/net8.0/Parametro-E-Argumento.AssemblyInfo.cs
+/home/nicolas/Documentos/Secao-4/Parametro-E-Argumento/obj/Debug/net8.0/Parametro-E-Argumento.csproj.CoreCompileInputs.cache
+/home/nicolas/Documentos/Secao-4/Parametro-E-Argumento/obj/Debug/net8.0/Parametro-E-Argumento.sourcelink.json
+/home/nicolas/Documentos/Secao-4/Parametro-E-Argumento/obj/Debug/net8.0/Parametro-E-Argumento.dll
+/home/nicolas/Documentos/Secao-4/Parametro-E-Argumento/obj/Debug/net8.0/refint/Parametro-E-Argumento.dll
+/home/nicolas/Documentos/Secao-4/Parametro-E-Argumento/obj/Debug/net8.0/Parametro-E-Argumento.pdb
+/home/nicolas/Documentos/Secao-4/Parametro-E-Argumento/obj/Debug/net8.0/Parametro-E-Argumento.genruntimeconfig.cache
+/home/nicolas/Documentos/Secao-4/Parametro-E-Argumento/obj/Debug/net8.0/ref/Parametro-E-Argumento.dll
